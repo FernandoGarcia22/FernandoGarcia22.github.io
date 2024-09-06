@@ -16,8 +16,7 @@ header {
   background-color: black;
 }
 svg {
-  width: 20px;
-  background: white;
+  width: 24px;
 }
 .logos {
   display: flex;
