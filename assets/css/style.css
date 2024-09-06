@@ -43,3 +43,6 @@ nav a:hover {
   color: rgb(44, 234, 222);
   text-decoration: overline;
 }
+section {
+  background-color: white;
+}
