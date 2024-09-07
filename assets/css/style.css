@@ -117,3 +117,24 @@ img {
 }
 
 /* ---------------INTRO--------------- */
+
+.sobremi {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding: 5rem 15rem;
+}
+.sobremi h3 {
+  font-size: 50px;
+  margin-bottom: 35px;
+}
+.sobremi p {
+  padding-inline: 3rem;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* --------------- ACERCA DE MI --------------- */
