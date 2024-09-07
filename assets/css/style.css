@@ -167,3 +167,22 @@ img {
 }
 
 /* --------------- ESTUDIOS --------------- */
+
+.experiencia {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  height: 20vh;
+}
+.experiencia h3 {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+.experiencia p {
+  padding-inline: 20rem;
+  font-size: 20px;
+  text-align: center;
+}
