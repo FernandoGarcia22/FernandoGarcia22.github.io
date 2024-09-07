@@ -138,3 +138,30 @@ img {
 }
 
 /* --------------- ACERCA DE MI --------------- */
+
+.educacion {
+  background-color: rgb(28, 28, 28);
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+  height: 20vh;
+  gap: 8rem;
+}
+.educacion h3 {
+  font-size: 40px;
+  text-align: end;
+  width: 329px;
+}
+.educacion div {
+  width: 329px;
+}
+.educacion h4 {
+  font-size: 22px;
+}
+.educacion p {
+  font-size: 20px;
+}
