@@ -52,7 +52,9 @@ nav a:hover {
   color: rgb(44, 234, 222);
   text-decoration: overline;
 }
-/* -----------NAVBAR----------- */
+
+/* ---------------NAVBAR--------------- */
+
 header {
   display: flex;
   flex-direction: column;
@@ -113,3 +115,5 @@ img {
   border: 5px solid white;
   background-repeat: no-repeat;
 }
+
+/* ---------------INTRO--------------- */
